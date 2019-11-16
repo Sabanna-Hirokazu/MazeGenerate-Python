@@ -1,4 +1,4 @@
-![]{https://github.com/Sabanna-Hirokazu/MazeGenerate-Python/blob/master/sample.png}
+![](https://github.com/Sabanna-Hirokazu/MazeGenerate-Python/blob/master/sample.png)
 
 # MazeGenerate-Python
 穴掘り法を用いて、迷路を生成するするアルゴリズムの実装を行う。
